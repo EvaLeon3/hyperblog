@@ -1,0 +1,36 @@
+[33mcommit ab94dd206b6abefb5c8ab31fed16b660718d22ec[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 9995efd b35a948
+Author: Eduardo Ucan <eduardoucansw@gmail.com>
+Date:   Fri Jun 24 11:29:10 2022 -0500
+
+    se dejo el boton con el nombre enviar, solucionando el conflicto
+
+[33mcommit 9995efd9cf3a627993628e8fe580db3e17c1eaba[m
+Author: Eduardo Ucan <eduardoucansw@gmail.com>
+Date:   Fri Jun 24 11:24:41 2022 -0500
+
+    modifico en boton enviar a eliminar
+
+[33mcommit b35a948520590177473e97d804a6f3753dd53971[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Eduardo Ucan <eduardoucansw@gmail.com>
+Date:   Fri Jun 24 11:23:56 2022 -0500
+
+    modifico en boton enviar
+
+[33mcommit 2152ce35a8b8e649d56540a2c59d305281c503b6[m
+Author: Eduardo Ucan <eduardoucansw@gmail.com>
+Date:   Fri Jun 24 11:08:17 2022 -0500
+
+    se cambio el nombre del boton enviar
+
+[33mcommit 79c18e73571d59da6d4795926ec6a7d88eb743a6[m
+Author: Eduardo Ucan <eduardoucansw@gmail.com>
+Date:   Fri Jun 24 11:02:32 2022 -0500
+
+    se cambio a ho
+
+[33mcommit e8e2cea0568fa28b51138f835572c04bcff33626[m
+Author: Eduardo Ucan <eduardoucansw@gmail.com>
+Date:   Fri Jun 24 10:58:45 2022 -0500
+
+    commit para el curso
