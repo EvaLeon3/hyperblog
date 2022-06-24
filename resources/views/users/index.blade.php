@@ -39,7 +39,7 @@
                     <th>ID</th>
                     <th>Nombre</th>
                     <th>Email</th>
-                    <th>contraseña</th>
+                    <th>ho</th>
                     <th>&nbsp;</th>
                 </tr>
             </thead>
