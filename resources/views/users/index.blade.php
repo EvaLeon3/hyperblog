@@ -31,7 +31,7 @@
                 </div>
             </div>
             @csrf
-            <button type="submit" class="btn btn-primary">eliminar</button>
+            <button type="submit" class="btn btn-primary">enviar</button>
           </form>
           <table class="table">
             <thead>
@@ -39,6 +39,7 @@
                     <th>ID</th>
                     <th>Nombre</th>
                     <th>Email</th>
+                    <th>ho</th>
                     <th>&nbsp;</th>
                 </tr>
             </thead>
